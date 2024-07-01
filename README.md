@@ -1,5 +1,9 @@
 # Chiliz-Sports-Hackathon
 
+議題は
+「チリーズで発行される日本初のファントークン」を作成してみるということ。
+
+
 TODO: 英語に書き換える
 
 ## Introduction
